@@ -1,10 +1,7 @@
 import random
 
-words = [
-    "apple","banana","orange","grape","peach",
-    "chair","table","window","pencil","notebook",
-    "ocean","mountain","river","forest","desert",
-    "python","github","commit","branch","merge"
+words = [ "profe braulio", "salma", "software", "valentines", "comida", "graduacion", "computadora", "abrigo", "casa",
+          "otorrinolaringologo", "new horizons", "development", "successful", "arancel", "abracadabrante"
 ]
 
 game_words = random.sample(words, 15)
